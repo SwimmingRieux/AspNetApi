@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace FoodApi.Schemas.Food;
+namespace FoodApi.DTOs.Food;
 
 public class FoodCreate
 {

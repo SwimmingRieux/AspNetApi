@@ -1,6 +1,6 @@
 using AutoMapper;
 using FoodApi.Models;
-using FoodApi.Schemas.Food;
+using FoodApi.DTOs.Food;
 
 public class MappingProfile : Profile
 {

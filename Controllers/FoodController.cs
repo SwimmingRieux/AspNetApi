@@ -1,6 +1,6 @@
 using FoodApi.Data;
 using FoodApi.Models;
-using FoodApi.Schemas.Food;
+using FoodApi.DTOs.Food;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;

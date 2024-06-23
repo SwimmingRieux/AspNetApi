@@ -167,3 +167,4 @@
 /home/sadq/RiderProjects/FoodApi/obj/Debug/net8.0/ref/FoodApi.dll
 /home/sadq/RiderProjects/FoodApi/bin/Debug/net8.0/AutoMapper.dll
 /home/sadq/RiderProjects/FoodApi/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/sadq/RiderProjects/FoodApi/obj/Debug/net8.0/FoodApi.sourcelink.json

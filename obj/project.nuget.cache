@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7bog9Yoh1ZpZS0GTwlM/YtsLXuJ7tsWk3C+GUc0ZEmpdWXR/m7seP/oPIqc7AIf9Fs1RssYkRMAwcnCSxvsJ/A==",
+  "dgSpecHash": "lBhbvsMHzjs=",
   "success": true,
   "projectFilePath": "/home/sadq/RiderProjects/FoodApi/FoodApi.csproj",
   "expectedPackageFiles": [
@@ -48,12 +48,17 @@
     "/home/sadq/.nuget/packages/microsoft.identitymodel.protocols/6.35.0/microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.35.0/microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.identitymodel.tokens/6.35.0/microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.app/2.2.8/microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.8/microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.8/microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.8/microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "/home/sadq/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/mono.texttemplating/3.0.0-preview-0052-g5d0f76c785/mono.texttemplating.3.0.0-preview-0052-g5d0f76c785.nupkg.sha512",
+    "/home/sadq/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/home/sadq/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
@@ -90,7 +95,10 @@
     "/home/sadq/.nuget/packages/system.text.json/9.0.0-preview.5.24306.7/system.text.json.9.0.0-preview.5.24306.7.nupkg.sha512",
     "/home/sadq/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
     "/home/sadq/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "/home/sadq/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
+    "/home/sadq/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/sadq/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }

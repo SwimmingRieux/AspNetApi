@@ -1,4 +1,4 @@
-namespace FoodApi.Schemas.Food;
+namespace FoodApi.DTOs.Food;
 
 public class FoodUpdate
 {
